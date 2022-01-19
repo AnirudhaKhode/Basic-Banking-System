@@ -1,8 +1,8 @@
 <html>   
 <head>
     <title>Acro Bank of India</title>    
-    <link rel='stylesheet' href='./stylesheets/bootstrap.min.css'>
-    <link rel='stylesheet' href='./stylesheets/styles.css'>
+    <link rel='stylesheet' href='../css/bootstrap.min.css'>
+    <link rel='stylesheet' href='../css/styles.css'>
 
 </head>
 <body>    
