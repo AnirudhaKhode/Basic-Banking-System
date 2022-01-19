@@ -1,8 +1,8 @@
 <html>   
 <head>
     <title>Acro Bank of India</title>    
-    <link rel='stylesheet' href='./stylesheets/bootstrap.min.css'>
-    <link rel='stylesheet' href='./stylesheets/styles.css'>
+    <link rel='stylesheet' href='../css/bootstrap.min.css'>
+    <link rel='stylesheet' href='../css/styles.css'>
     <script>
         // function to ensure entered amount is not greater than available balance
         function CheckAmt($x){
