@@ -1,8 +1,8 @@
 <html>   
 <head>
     <title>Acro Bank of India</title>    
-    <link rel='stylesheet' href='./stylesheets/bootstrap.min.css'>
-    <link rel='stylesheet' href='./stylesheets/styles.css'>
+    <link rel='stylesheet' href='../css/bootstrap.min.css'>
+    <link rel='stylesheet' href='../css/styles.css'>
 
 </head>
 <body>  
@@ -19,7 +19,7 @@
     <nav> 
         <p>ACRO BANK OF INDIA</p>
     </nav>
-    <div class='homeImage'><img src="./images/HomeImage.png"></div>
+    <div class='homeImage'><img src="../images/HomeImage.png"></div>
     <div class='HomeContent'>
         <h1>Welcome</h1>
         <h2>To the Acro Bank of India</h2>
